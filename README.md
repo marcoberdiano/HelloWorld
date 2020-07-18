@@ -1,2 +1,2 @@
 # HelloWorld
-This is a simple test to learn the basics funcionality of the github.
+This is a simple test to learn the basics functionality of the github.
